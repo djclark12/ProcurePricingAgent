@@ -25,7 +25,7 @@ This application demonstrates AI-powered agents for:
 ## Prerequisites
 
 - **Python 3.11+**
-- **Azure OpenAI Resource** with a deployed chat model (e.g., `gpt-4o`, `gpt-4o-mini`)
+- **Azure OpenAI Resource** with a deployed chat model 
 - Access to the deployment's endpoint, API key, and deployment name
 
 ## Quick Start
@@ -33,8 +33,7 @@ This application demonstrates AI-powered agents for:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/procure-price-agent.git
-cd procure-price-agent
+git clone https://github.com/djclark12/procure-price-agent.git
 ```
 
 ### 2. Create a Virtual Environment (Recommended)
